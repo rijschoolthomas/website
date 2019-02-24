@@ -22,4 +22,4 @@ textarea {width: 100%; padding: 12px; border: 1px solid #ccc; border-radius: 50%
 .hoofd-menu.text-element > .silex-element-content {font-family: 'Roboto', sans-serif; font-weight: bold; font-size: 16px; color: #ffffff; text-align: center; text-transform: uppercase;}
 .sub-menu.text-element > .silex-element-content {font-family: 'Roboto', sans-serif; font-size: 15px; color: #ffffff;}
 .website-width {width: 960px;}
-.copyright.text-element > .silex-element-content {font-style: italic; font-size: 14px;}body.silex-runtime {opacity: 1;}
+.copyright.text-element > .silex-element-content {font-size: 13px;}body.silex-runtime {opacity: 1;}
